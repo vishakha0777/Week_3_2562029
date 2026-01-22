@@ -5,7 +5,11 @@ It allows users to create a list, insert a node at the beginning, display nodes,
 
 ---
 <details>
-  <summary><strong>## Features</strong></summary>
+  <summary>
+    <strong>
+       ## Features
+    </strong>
+  </summary>
 - Create a linked list  
 - Insert at beginning  
 - Display all nodes  
@@ -13,18 +17,28 @@ It allows users to create a list, insert a node at the beginning, display nodes,
 - Uses dynamic memory allocation  
 </details>
 ---
-
-## 📋 Menu
+<display>
+  <summary>
+    <strong>
+  ## 📋 Menu
+</strong>
+  </summary>
 1. Create List  
 2. Insert at Beginning  
 3. Display List  
 4. Delete at End  
 5. Exit  
+</display>
 
----
-
-## Concepts
+<display>
+  <summary>
+    <strong>
+      Concepts
+    </strong>
+  </summary>
 - Structures & Pointers  
 - `malloc()` and `free()`  
 - Singly Linked List  
 - Switch-case menu 
+  
+</display>
