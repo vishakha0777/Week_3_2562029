@@ -4,41 +4,28 @@ A simple *menu-driven C program* that implements a *singly linked list*.
 It allows users to create a list, insert a node at the beginning, display nodes, and delete the last node.
 
 ---
-<details>
-  <summary>
-    <strong>
-       ## Features
-    </strong>
-  </summary>
+
+##  Features
 - Create a linked list  
 - Insert at beginning  
 - Display all nodes  
 - Delete at end  
 - Uses dynamic memory allocation  
-</details>
----
-<display>
-  <summary>
-    <strong>
-  ## 📋 Menu
-</strong>
-  </summary>
+
+
+
+##  Menu
 1. Create List  
 2. Insert at Beginning  
 3. Display List  
 4. Delete at End  
 5. Exit  
-</display>
 
-<display>
-  <summary>
-    <strong>
-      Concepts
-    </strong>
-  </summary>
+
+
+##  Concepts
 - Structures & Pointers  
 - `malloc()` and `free()`  
 - Singly Linked List  
-- Switch-case menu 
-  
-</display>
+- Switch-case menu  
+
