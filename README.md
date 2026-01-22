@@ -4,14 +4,14 @@ A simple *menu-driven C program* that implements a *singly linked list*.
 It allows users to create a list, insert a node at the beginning, display nodes, and delete the last node.
 
 ---
-
-## Features
+<details>
+  <summary><strong>## Features</strong></summary>
 - Create a linked list  
 - Insert at beginning  
 - Display all nodes  
 - Delete at end  
 - Uses dynamic memory allocation  
-
+</details>
 ---
 
 ## 📋 Menu
